@@ -1,0 +1,15 @@
+C:\Users\Ahmed\Desktop\Library\Assignment2OOP\Assignment2OOP\bin\Debug\net8.0\Assignment2OOP.exe
+C:\Users\Ahmed\Desktop\Library\Assignment2OOP\Assignment2OOP\bin\Debug\net8.0\Assignment2OOP.deps.json
+C:\Users\Ahmed\Desktop\Library\Assignment2OOP\Assignment2OOP\bin\Debug\net8.0\Assignment2OOP.runtimeconfig.json
+C:\Users\Ahmed\Desktop\Library\Assignment2OOP\Assignment2OOP\bin\Debug\net8.0\Assignment2OOP.dll
+C:\Users\Ahmed\Desktop\Library\Assignment2OOP\Assignment2OOP\bin\Debug\net8.0\Assignment2OOP.pdb
+C:\Users\Ahmed\Desktop\Library\Assignment2OOP\Assignment2OOP\obj\Debug\net8.0\Assignment2OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\Library\Assignment2OOP\Assignment2OOP\obj\Debug\net8.0\Assignment2OOP.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\Library\Assignment2OOP\Assignment2OOP\obj\Debug\net8.0\Assignment2OOP.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\Library\Assignment2OOP\Assignment2OOP\obj\Debug\net8.0\Assignment2OOP.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\Library\Assignment2OOP\Assignment2OOP\obj\Debug\net8.0\Assignment2OOP.sourcelink.json
+C:\Users\Ahmed\Desktop\Library\Assignment2OOP\Assignment2OOP\obj\Debug\net8.0\Assignment2OOP.dll
+C:\Users\Ahmed\Desktop\Library\Assignment2OOP\Assignment2OOP\obj\Debug\net8.0\refint\Assignment2OOP.dll
+C:\Users\Ahmed\Desktop\Library\Assignment2OOP\Assignment2OOP\obj\Debug\net8.0\Assignment2OOP.pdb
+C:\Users\Ahmed\Desktop\Library\Assignment2OOP\Assignment2OOP\obj\Debug\net8.0\Assignment2OOP.genruntimeconfig.cache
+C:\Users\Ahmed\Desktop\Library\Assignment2OOP\Assignment2OOP\obj\Debug\net8.0\ref\Assignment2OOP.dll

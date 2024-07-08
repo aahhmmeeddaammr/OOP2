@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed\\Desktop\\Library\\lectureDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA31391F-DF1B-4142-AB20-D04A2D5AAEEA}|lectureDemo\\lectureDemo.csproj|c:\\users\\ahmed\\desktop\\library\\lecturedemo\\lecturedemo\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA31391F-DF1B-4142-AB20-D04A2D5AAEEA}|lectureDemo\\lectureDemo.csproj|solutionrelative:lecturedemo\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA31391F-DF1B-4142-AB20-D04A2D5AAEEA}|lectureDemo\\lectureDemo.csproj|c:\\users\\ahmed\\desktop\\library\\lecturedemo\\lecturedemo\\phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA31391F-DF1B-4142-AB20-D04A2D5AAEEA}|lectureDemo\\lectureDemo.csproj|solutionrelative:lecturedemo\\phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA31391F-DF1B-4142-AB20-D04A2D5AAEEA}|lectureDemo\\lectureDemo.csproj|c:\\users\\ahmed\\desktop\\library\\lecturedemo\\lecturedemo\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA31391F-DF1B-4142-AB20-D04A2D5AAEEA}|lectureDemo\\lectureDemo.csproj|solutionrelative:lecturedemo\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA31391F-DF1B-4142-AB20-D04A2D5AAEEA}|lectureDemo\\lectureDemo.csproj|c:\\users\\ahmed\\desktop\\library\\lecturedemo\\lecturedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA31391F-DF1B-4142-AB20-D04A2D5AAEEA}|lectureDemo\\lectureDemo.csproj|solutionrelative:lecturedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "inheritance.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\Library\\lectureDemo\\lectureDemo\\inheritance.cs",
+              "RelativeDocumentMoniker": "lectureDemo\\inheritance.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\Library\\lectureDemo\\lectureDemo\\inheritance.cs",
+              "RelativeToolTip": "lectureDemo\\inheritance.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvy8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:53:06.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\Library\\lectureDemo\\lectureDemo\\Contact.cs",
+              "RelativeDocumentMoniker": "lectureDemo\\Contact.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\Library\\lectureDemo\\lectureDemo\\Contact.cs",
+              "RelativeToolTip": "lectureDemo\\Contact.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:32:07.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhoneBook.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\Library\\lectureDemo\\lectureDemo\\PhoneBook.cs",
+              "RelativeDocumentMoniker": "lectureDemo\\PhoneBook.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\Library\\lectureDemo\\lectureDemo\\PhoneBook.cs",
+              "RelativeToolTip": "lectureDemo\\PhoneBook.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:31:51.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\Library\\lectureDemo\\lectureDemo\\Program.cs",
+              "RelativeDocumentMoniker": "lectureDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\Library\\lectureDemo\\lectureDemo\\Program.cs",
+              "RelativeToolTip": "lectureDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:31:20.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
